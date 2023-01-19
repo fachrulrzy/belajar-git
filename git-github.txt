@@ -44,5 +44,6 @@
     - staging area : ngasi tau git kalo anda melakukan perubahan
     - history : sudah di commit maka masuk ke history
   * commit dulu baru ke update, kek biasa
+  * tes commit kedua nih
   
 
