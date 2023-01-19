@@ -45,5 +45,3 @@
     - history : sudah di commit maka masuk ke history
   * commit dulu baru ke update, kek biasa
   * tes commit kedua nih
-  
-
