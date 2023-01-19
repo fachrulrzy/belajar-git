@@ -1,0 +1,48 @@
+= GIT - Github
+
+= Contoh version control system : git, subversion, mercurial, cvs
+
+= Git
+  - Sebuah vcs untuk mengelola perubahan file di dalam folder (repository)
+  - git akan menyimpan perubahan file dengan serangkaian "commit"
+  - "branch", cabang dalam commit
+  - "merge", gabungin branch ke commit utama
+
+= Github
+  - git tapi di cloud
+  - "pull", taro commit ke pc dari Github
+  - "push", ambil commit dari github ke pc
+
+= Glosarium
+  - repo : folder projek
+  - commit : rekaman perubahan dari repo
+  - hash : penanda unik pada sebuah commit
+  - checkout : berpindah ke sebuah commit
+  - branch : cabang bebas dari sebuah commit
+  - merge : gabungin branch
+  - remote : sumber yang memiliki repo
+  - clone :  mengambil repo dari remote
+  - pull : taro commit ke pc dari Github
+  - push : ambil commit dari github ke pc
+
+# 3 GITHUB : BRANCH (17/12/2022 - 18/01/2023)
+  = branch : cabang bebas dari sebuah commit
+  = pull request : gabungin branch ke main branch
+  = conflict saat pull req : ketika dua atau lebih 
+    branch mengubah di baris yang sama, solvenya
+    tinggal dipilih manual ajah
+
+# 4 GITHUB : FORK (18/01/2023)
+  = fork/forking : duplikat/copy repo orang 
+    lain ke repo kita (beserta history commitnya)
+  = Fork (github web) != Clone (lokal)
+  
+# 5 Bekerja dengan GIT (19/01/2023)
+  = bisa liat panduak ebook nya di web git-cdn
+  = 3 area pada repo Git
+    - working tree : folder biasa tempat anda bekerja
+    - staging area : ngasi tau git kalo anda melakukan perubahan
+    - history : sudah di commit maka masuk ke history
+  * commit dulu baru ke update, kek biasa
+  
+
