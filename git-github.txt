@@ -49,3 +49,8 @@
 # 6 GIT BRANCH & MERGE (19/01/2023)
   = belajar branching dan merge di dengan GIT local
     komputer
+
+# 7 GIT MERGE CONFLICT (20/01/2023)
+  = menangani merge conflict di GIT
+  = merge conflict : dua branch mengerjakan baris
+    yang sama dalam dua repo
