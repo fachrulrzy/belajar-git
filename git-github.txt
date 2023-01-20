@@ -58,3 +58,6 @@
 # 8 GIT REMOTE
   = sinkron dari lokal ke github
   * tes commit lokal ke github
+
+# 9 GITHUB PAGES
+  = web hosting gratis dengan github pages
