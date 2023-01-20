@@ -57,3 +57,4 @@
 
 # 8 GIT REMOTE
   = sinkron dari lokal ke github
+  * tes commit lokal ke github
