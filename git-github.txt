@@ -54,3 +54,6 @@
   = menangani merge conflict di GIT
   = merge conflict : dua branch mengerjakan baris
     yang sama dalam dua repo
+
+# 8 GIT REMOTE
+  = sinkron dari lokal ke github
